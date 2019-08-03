@@ -104,3 +104,4 @@ venv.bak/
 .mypy_cache/
 flight-tickets.pem
 aws_ec2.ppk
+.config/scp_link.txt
